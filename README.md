@@ -175,7 +175,7 @@ Explore the complete Business Analyst portfolio and supporting project documenta
 
 ## 2. Final Business Analysis Report
 
-**[View Final Business Analysis Report (PDF)](02_BA_Documentation/West_Beach_Hospital_Final_BA_Report.pdf)**
+**[View Final Business Analysis Report (PDF)](02_BA_Documentation/Final_BA_Report.pdf)**
 
 The consolidated five-day report includes:
 
