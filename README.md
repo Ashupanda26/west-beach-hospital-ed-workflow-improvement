@@ -1,2 +1,3 @@
-# west-beach-hospital-ed-workflow-improvement
-A simulated five-day Business Analyst portfolio project analysing and redesigning an Emergency Department patient check-in, registration and administrative handover workflow.
+# West Beach Hospital: Emergency Department Check-In & Triage Workflow Improvement
+
+Business Analysis portfolio project | 5-day simulated case study | UK healthcare operations
