@@ -158,3 +158,82 @@ The following limitations apply:
 The proposed workflow and recommendations would require review and approval from relevant operational, clinical and information governance stakeholders before any real-world use.
 
 **Patient safety and clinical accountability:** Administrative registration must not delay urgent clinical escalation. Reception staff do not make clinical decisions, perform clinical triage or determine patient priority.
+
+
+---
+
+# Project Deliverables & Resources
+
+Explore the complete Business Analyst portfolio and supporting project documentation.
+
+## 1. Project Overview
+
+| Resource | Description |
+|---|---|
+| [Project Overview (PDF)](01_Project_Overview/Project_Overview.pdf) | One-page summary of the business problem, objectives, scope and BA deliverables. |
+| [Project Overview (Word)](01_Project_Overview/Project_Overview.docx) | Editable project overview document. |
+
+## 2. Final Business Analysis Report
+
+**[View Final Business Analysis Report (PDF)](02_BA_Documentation/West_Beach_Hospital_Final_BA_Report.pdf)**
+
+The consolidated five-day report includes:
+
+- Business Problem Statement
+- Stakeholder Analysis and Requirements
+- Current-State Process Analysis
+- Fishbone and 5 Whys Root Cause Analysis
+- Future-State Process Design
+- KPI Framework
+- Process Improvement Recommendations
+- Requirements Traceability and Lessons Learnt
+
+## 3. Process Maps & Diagrams
+
+| Diagram | Description | Editable Source |
+|---|---|---|
+| Initial Current-State Map (Day 2) | Preliminary patient arrival and registration workflow. | [Open Draw.io](03_Process_Maps/01_Day2_Initial_Current_State.drawio) |
+| Final Current-State Map (Day 3) | Refined workflow with activities, decisions and responsibilities. | [Open Draw.io](03_Process_Maps/02_Day3_Final_Current_State.drawio) |
+| Root Cause Fishbone (Day 3) | Analysis of potential causes across six categories. | [Open Draw.io](03_Process_Maps/03_Day3_Root_Cause_Fishbone.drawio) |
+| Future-State Map (Day 4) | Proposed improved administrative workflow and handover controls. | [Open Draw.io](03_Process_Maps/04_Day4_Future_State.drawio) |
+
+**Note:** The Draw.io files are editable source diagrams. Open them using [diagrams.net](https://app.diagrams.net/).
+
+## 4. BA Working Workbook
+
+**[Download BA Working Workbook (.xlsx)](04_BA_Workbook/West_Beach_Hospital_BA_Working_Workbook.xlsx)**
+
+The workbook contains eight worksheets:
+
+1. Overview
+2. Requirements Log
+3. Stakeholder Register
+4. Root Cause Register
+5. KPI Framework
+6. Process Improvement Recommendations
+7. Requirements Traceability Matrix
+8. Final BA Review Checklist
+
+## 5. Final BA Presentation
+
+- [Download Final BA Presentation (.pptx)](05_BA_Presentation/Final_BA_Presentation.pptx)
+- [View Presentation Slide Preview (.png)](Presentation_Slide_Preview.png)
+
+---
+
+## Tools & Technologies
+
+Google Docs | Google Sheets | Google Drive | Draw.io
+
+## Business Analysis Techniques
+
+Stakeholder Analysis | Requirements Elicitation | Process Mapping | BPMN | Gap Analysis | Fishbone | 5 Whys | MoSCoW | KPI Definition | Requirements Traceability
+
+---
+
+**Project Classification:** Simulated Business Analysis Portfolio Project  
+**Project Duration:** Five Working Days  
+**Business Domain:** UK Healthcare Operations  
+**Role Demonstrated:** Business Analyst
+
+*This project is based on a supplied case-study briefing. It does not represent a live NHS implementation. Stakeholder findings, candidate root causes and proposed improvements require organisational validation. No actual operational benefits are claimed.*
